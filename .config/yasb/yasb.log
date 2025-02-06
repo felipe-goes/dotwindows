@@ -391,3 +391,254 @@ found unknown escape character 'W'
 2025-02-06 20:43:36 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
 2025-02-06 20:43:41 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
 2025-02-06 20:45:04 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-06 20:46:15 INFO weather.py:359: Fetched new weather data at 2025-02-06 20:46:15.656701
+2025-02-06 20:46:46 INFO bar_manager.py:47: Successfully loaded updated stylesheet and applied to all bars.
+2025-02-06 20:48:14 INFO log.py:21: Yasb v1.5.8
+2025-02-06 20:48:14 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-06 20:48:14 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-06 20:48:14 INFO weather.py:359: Fetched new weather data at 2025-02-06 20:48:14.766427
+2025-02-06 20:48:14 INFO app_bar.py:103: Bar Created on Screen: PGCTRBL01 [Bar Height: 44px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 2560, Screen Height: 1440]
+2025-02-06 20:48:15 INFO event_listener.py:52: Created named pipe yasb-d51afc43-e4e4-11ef-8e0c-00e04c742203
+2025-02-06 20:48:15 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-d51afc43-e4e4-11ef-8e0c-00e04c742203
+2025-02-06 20:48:15 INFO watcher.py:39: Created file watcher for path C:\Users\ogoes\.config\yasb
+2025-02-06 20:48:15 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-06 20:48:15 DEBUG _windows.py:192: Thread started
+2025-02-06 20:48:15 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-d51afc43-e4e4-11ef-8e0c-00e04c742203
+2025-02-06 20:48:32 INFO log.py:21: Yasb v1.5.8
+2025-02-06 20:48:32 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-06 20:48:32 INFO weather.py:359: Fetched new weather data at 2025-02-06 20:48:32.465449
+2025-02-06 20:48:32 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-06 20:48:32 INFO app_bar.py:103: Bar Created on Screen: PGCTRBL01 [Bar Height: 44px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 2560, Screen Height: 1440]
+2025-02-06 20:48:32 INFO event_listener.py:52: Created named pipe yasb-dfc0ade0-e4e4-11ef-a8d3-00e04c742203
+2025-02-06 20:48:32 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-dfc0ade0-e4e4-11ef-a8d3-00e04c742203
+2025-02-06 20:48:32 INFO watcher.py:39: Created file watcher for path C:\Users\ogoes\.config\yasb
+2025-02-06 20:48:32 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-06 20:48:32 DEBUG _windows.py:192: Thread started
+2025-02-06 20:48:33 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-dfc0ade0-e4e4-11ef-a8d3-00e04c742203
+2025-02-06 20:48:44 INFO log.py:21: Yasb v1.5.8
+2025-02-06 20:48:44 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-06 20:48:44 INFO weather.py:359: Fetched new weather data at 2025-02-06 20:48:44.242170
+2025-02-06 20:48:44 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-06 20:48:44 INFO app_bar.py:103: Bar Created on Screen: PGCTRBL01 [Bar Height: 44px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 2560, Screen Height: 1440]
+2025-02-06 20:48:44 INFO event_listener.py:52: Created named pipe yasb-e6c4fa6e-e4e4-11ef-9eff-00e04c742203
+2025-02-06 20:48:44 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-e6c4fa6e-e4e4-11ef-9eff-00e04c742203
+2025-02-06 20:48:44 INFO watcher.py:39: Created file watcher for path C:\Users\ogoes\.config\yasb
+2025-02-06 20:48:44 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-06 20:48:44 DEBUG _windows.py:192: Thread started
+2025-02-06 20:48:44 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-e6c4fa6e-e4e4-11ef-9eff-00e04c742203
+2025-02-06 20:49:00 INFO log.py:21: Yasb v1.5.8
+2025-02-06 20:49:00 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-06 20:49:00 INFO weather.py:359: Fetched new weather data at 2025-02-06 20:49:00.646197
+2025-02-06 20:49:00 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-06 20:49:00 INFO app_bar.py:103: Bar Created on Screen: PGCTRBL01 [Bar Height: 44px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 2560, Screen Height: 1440]
+2025-02-06 20:49:01 INFO event_listener.py:52: Created named pipe yasb-f078ce29-e4e4-11ef-a858-00e04c742203
+2025-02-06 20:49:01 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f078ce29-e4e4-11ef-a858-00e04c742203
+2025-02-06 20:49:01 INFO watcher.py:39: Created file watcher for path C:\Users\ogoes\.config\yasb
+2025-02-06 20:49:01 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-06 20:49:01 DEBUG _windows.py:192: Thread started
+2025-02-06 20:49:01 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-f078ce29-e4e4-11ef-a858-00e04c742203
+2025-02-06 20:49:11 INFO log.py:21: Yasb v1.5.8
+2025-02-06 20:49:11 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-06 20:49:11 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-06 20:49:12 INFO weather.py:359: Fetched new weather data at 2025-02-06 20:49:12.024881
+2025-02-06 20:49:12 INFO app_bar.py:103: Bar Created on Screen: PGCTRBL01 [Bar Height: 44px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 2560, Screen Height: 1440]
+2025-02-06 20:49:12 INFO event_listener.py:52: Created named pipe yasb-f73b24f3-e4e4-11ef-92e5-00e04c742203
+2025-02-06 20:49:12 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-f73b24f3-e4e4-11ef-92e5-00e04c742203
+2025-02-06 20:49:12 INFO watcher.py:39: Created file watcher for path C:\Users\ogoes\.config\yasb
+2025-02-06 20:49:12 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-06 20:49:12 DEBUG _windows.py:192: Thread started
+2025-02-06 20:49:12 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-f73b24f3-e4e4-11ef-92e5-00e04c742203
+2025-02-06 20:49:31 INFO log.py:21: Yasb v1.5.8
+2025-02-06 20:49:31 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-06 20:49:32 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-06 20:49:32 INFO weather.py:359: Fetched new weather data at 2025-02-06 20:49:32.153723
+2025-02-06 20:49:32 WARNING widget_builder.py:38: No widget config could be found for widget 'cpu
+2025-02-06 20:49:32 INFO app_bar.py:103: Bar Created on Screen: PGCTRBL01 [Bar Height: 44px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 2560, Screen Height: 1440]
+2025-02-06 20:49:32 ERROR widget_builder.py:77: Failed to add undefined widget(s)  - The widget "cpu" is undefined.
+2025-02-06 20:49:32 INFO event_listener.py:52: Created named pipe yasb-033aab58-e4e5-11ef-9ae3-00e04c742203
+2025-02-06 20:49:32 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-033aab58-e4e5-11ef-9ae3-00e04c742203
+2025-02-06 20:49:32 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-033aab58-e4e5-11ef-9ae3-00e04c742203
+2025-02-06 20:49:36 INFO watcher.py:39: Created file watcher for path C:\Users\ogoes\.config\yasb
+2025-02-06 20:49:36 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-06 20:49:36 DEBUG _windows.py:192: Thread started
+2025-02-06 20:49:39 INFO log.py:21: Yasb v1.5.8
+2025-02-06 20:49:39 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-06 20:49:39 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-06 20:49:39 INFO weather.py:359: Fetched new weather data at 2025-02-06 20:49:39.794701
+2025-02-06 20:49:39 INFO app_bar.py:103: Bar Created on Screen: PGCTRBL01 [Bar Height: 44px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 2560, Screen Height: 1440]
+2025-02-06 20:49:40 INFO event_listener.py:52: Created named pipe yasb-07c976ec-e4e5-11ef-aaf7-00e04c742203
+2025-02-06 20:49:40 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-07c976ec-e4e5-11ef-aaf7-00e04c742203
+2025-02-06 20:49:40 INFO watcher.py:39: Created file watcher for path C:\Users\ogoes\.config\yasb
+2025-02-06 20:49:40 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-06 20:49:40 DEBUG _windows.py:192: Thread started
+2025-02-06 20:49:40 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-07c976ec-e4e5-11ef-aaf7-00e04c742203
+2025-02-06 20:50:32 ERROR config.py:99: The file 'C:\Users\ogoes\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a block mapping
+  in "C:\Users\ogoes\.config\yasb\config.yaml", line 199, column 9
+expected <block end>, but found '<scalar>'
+  in "C:\Users\ogoes\.config\yasb\config.yaml", line 199, column 40
+2025-02-06 20:50:32 ERROR config.py:99: The file 'C:\Users\ogoes\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a block mapping
+  in "C:\Users\ogoes\.config\yasb\config.yaml", line 199, column 9
+expected <block end>, but found '<scalar>'
+  in "C:\Users\ogoes\.config\yasb\config.yaml", line 199, column 40
+2025-02-06 20:50:32 ERROR config.py:99: The file 'C:\Users\ogoes\.config\yasb\config.yaml' contains Parser Error(s). Please fix:
+while parsing a block mapping
+  in "C:\Users\ogoes\.config\yasb\config.yaml", line 199, column 9
+expected <block end>, but found '<scalar>'
+  in "C:\Users\ogoes\.config\yasb\config.yaml", line 199, column 40
+2025-02-06 20:50:59 INFO log.py:21: Yasb v1.5.8
+2025-02-06 20:50:59 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-06 20:50:59 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-06 20:50:59 INFO weather.py:359: Fetched new weather data at 2025-02-06 20:50:59.535899
+2025-02-06 20:50:59 INFO app_bar.py:103: Bar Created on Screen: PGCTRBL01 [Bar Height: 44px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 2560, Screen Height: 1440]
+2025-02-06 20:50:59 INFO event_listener.py:52: Created named pipe yasb-375338c2-e4e5-11ef-b7e6-00e04c742203
+2025-02-06 20:50:59 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-375338c2-e4e5-11ef-b7e6-00e04c742203
+2025-02-06 20:50:59 INFO watcher.py:39: Created file watcher for path C:\Users\ogoes\.config\yasb
+2025-02-06 20:50:59 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-06 20:50:59 DEBUG _windows.py:192: Thread started
+2025-02-06 20:50:59 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-375338c2-e4e5-11ef-b7e6-00e04c742203
+2025-02-06 20:51:13 INFO log.py:21: Yasb v1.5.8
+2025-02-06 20:51:13 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-06 20:51:13 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-06 20:51:13 INFO weather.py:359: Fetched new weather data at 2025-02-06 20:51:13.562471
+2025-02-06 20:51:13 INFO app_bar.py:103: Bar Created on Screen: PGCTRBL01 [Bar Height: 44px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 2560, Screen Height: 1440]
+2025-02-06 20:51:13 INFO event_listener.py:52: Created named pipe yasb-3faf3572-e4e5-11ef-b5ea-00e04c742203
+2025-02-06 20:51:13 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-3faf3572-e4e5-11ef-b5ea-00e04c742203
+2025-02-06 20:51:13 INFO watcher.py:39: Created file watcher for path C:\Users\ogoes\.config\yasb
+2025-02-06 20:51:13 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-06 20:51:13 DEBUG _windows.py:192: Thread started
+2025-02-06 20:51:13 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-3faf3572-e4e5-11ef-b5ea-00e04c742203
+2025-02-06 20:52:19 INFO log.py:21: Yasb v1.5.8
+2025-02-06 20:52:19 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-06 20:52:19 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-06 20:52:19 INFO weather.py:359: Fetched new weather data at 2025-02-06 20:52:19.690411
+2025-02-06 20:52:19 INFO app_bar.py:103: Bar Created on Screen: PGCTRBL01 [Bar Height: 44px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 2560, Screen Height: 1440]
+2025-02-06 20:52:20 INFO event_listener.py:52: Created named pipe yasb-671b3742-e4e5-11ef-bf3d-00e04c742203
+2025-02-06 20:52:20 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-671b3742-e4e5-11ef-bf3d-00e04c742203
+2025-02-06 20:52:20 INFO watcher.py:39: Created file watcher for path C:\Users\ogoes\.config\yasb
+2025-02-06 20:52:20 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-06 20:52:20 DEBUG _windows.py:192: Thread started
+2025-02-06 20:52:20 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-671b3742-e4e5-11ef-bf3d-00e04c742203
+2025-02-06 20:53:11 INFO log.py:21: Yasb v1.5.8
+2025-02-06 20:53:11 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-06 20:53:11 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-06 20:53:11 INFO weather.py:359: Fetched new weather data at 2025-02-06 20:53:11.671868
+2025-02-06 20:53:11 INFO app_bar.py:103: Bar Created on Screen: PGCTRBL01 [Bar Height: 44px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 2560, Screen Height: 1440]
+2025-02-06 20:53:12 INFO event_listener.py:52: Created named pipe yasb-8615623d-e4e5-11ef-aed0-00e04c742203
+2025-02-06 20:53:12 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-8615623d-e4e5-11ef-aed0-00e04c742203
+2025-02-06 20:53:12 INFO watcher.py:39: Created file watcher for path C:\Users\ogoes\.config\yasb
+2025-02-06 20:53:12 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-06 20:53:12 DEBUG _windows.py:192: Thread started
+2025-02-06 20:53:12 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-8615623d-e4e5-11ef-aed0-00e04c742203
+2025-02-06 20:53:36 INFO log.py:21: Yasb v1.5.8
+2025-02-06 20:53:36 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-06 20:53:36 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-06 20:53:36 INFO weather.py:359: Fetched new weather data at 2025-02-06 20:53:36.962134
+2025-02-06 20:53:36 INFO app_bar.py:103: Bar Created on Screen: PGCTRBL01 [Bar Height: 44px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 2560, Screen Height: 1440]
+2025-02-06 20:53:37 INFO event_listener.py:52: Created named pipe yasb-95276e05-e4e5-11ef-806d-00e04c742203
+2025-02-06 20:53:37 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-95276e05-e4e5-11ef-806d-00e04c742203
+2025-02-06 20:53:37 INFO watcher.py:39: Created file watcher for path C:\Users\ogoes\.config\yasb
+2025-02-06 20:53:37 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-06 20:53:37 DEBUG _windows.py:192: Thread started
+2025-02-06 20:53:37 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-95276e05-e4e5-11ef-806d-00e04c742203
+2025-02-06 20:54:04 INFO log.py:21: Yasb v1.5.8
+2025-02-06 20:54:04 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-06 20:54:05 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-06 20:54:05 INFO weather.py:359: Fetched new weather data at 2025-02-06 20:54:05.107034
+2025-02-06 20:54:05 INFO app_bar.py:103: Bar Created on Screen: PGCTRBL01 [Bar Height: 44px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 2560, Screen Height: 1440]
+2025-02-06 20:54:05 INFO event_listener.py:52: Created named pipe yasb-a5ee26c4-e4e5-11ef-94e8-00e04c742203
+2025-02-06 20:54:05 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-a5ee26c4-e4e5-11ef-94e8-00e04c742203
+2025-02-06 20:54:05 INFO watcher.py:39: Created file watcher for path C:\Users\ogoes\.config\yasb
+2025-02-06 20:54:05 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-06 20:54:05 DEBUG _windows.py:192: Thread started
+2025-02-06 20:54:05 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-a5ee26c4-e4e5-11ef-94e8-00e04c742203
+2025-02-06 20:54:30 INFO log.py:21: Yasb v1.5.8
+2025-02-06 20:54:30 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-06 20:54:30 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-06 20:54:30 INFO weather.py:359: Fetched new weather data at 2025-02-06 20:54:30.835848
+2025-02-06 20:54:30 INFO app_bar.py:103: Bar Created on Screen: PGCTRBL01 [Bar Height: 44px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 2560, Screen Height: 1440]
+2025-02-06 20:54:31 INFO event_listener.py:52: Created named pipe yasb-b5439ddf-e4e5-11ef-bd1f-00e04c742203
+2025-02-06 20:54:31 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-b5439ddf-e4e5-11ef-bd1f-00e04c742203
+2025-02-06 20:54:31 INFO watcher.py:39: Created file watcher for path C:\Users\ogoes\.config\yasb
+2025-02-06 20:54:31 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-06 20:54:31 DEBUG _windows.py:192: Thread started
+2025-02-06 20:54:31 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-b5439ddf-e4e5-11ef-bd1f-00e04c742203
+2025-02-06 20:54:38 INFO log.py:21: Yasb v1.5.8
+2025-02-06 20:54:38 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-06 20:54:38 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-06 20:54:38 INFO weather.py:359: Fetched new weather data at 2025-02-06 20:54:38.371394
+2025-02-06 20:54:38 INFO app_bar.py:103: Bar Created on Screen: PGCTRBL01 [Bar Height: 44px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 2560, Screen Height: 1440]
+2025-02-06 20:54:38 INFO event_listener.py:52: Created named pipe yasb-b9c425cf-e4e5-11ef-8f07-00e04c742203
+2025-02-06 20:54:38 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-b9c425cf-e4e5-11ef-8f07-00e04c742203
+2025-02-06 20:54:38 INFO watcher.py:39: Created file watcher for path C:\Users\ogoes\.config\yasb
+2025-02-06 20:54:38 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-06 20:54:38 DEBUG _windows.py:192: Thread started
+2025-02-06 20:54:38 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-b9c425cf-e4e5-11ef-8f07-00e04c742203
+2025-02-06 20:55:26 INFO log.py:21: Yasb v1.5.8
+2025-02-06 20:55:26 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-06 20:55:27 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-06 20:55:27 INFO weather.py:359: Fetched new weather data at 2025-02-06 20:55:27.162848
+2025-02-06 20:55:27 INFO app_bar.py:103: Bar Created on Screen: PGCTRBL01 [Bar Height: 44px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 2560, Screen Height: 1440]
+2025-02-06 20:55:27 INFO event_listener.py:52: Created named pipe yasb-d6d7636b-e4e5-11ef-830d-00e04c742203
+2025-02-06 20:55:27 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-d6d7636b-e4e5-11ef-830d-00e04c742203
+2025-02-06 20:55:27 INFO watcher.py:39: Created file watcher for path C:\Users\ogoes\.config\yasb
+2025-02-06 20:55:27 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-06 20:55:27 DEBUG _windows.py:192: Thread started
+2025-02-06 20:55:27 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-d6d7636b-e4e5-11ef-830d-00e04c742203
+2025-02-06 20:55:36 INFO log.py:21: Yasb v1.5.8
+2025-02-06 20:55:36 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-06 20:55:36 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-06 20:55:36 INFO weather.py:359: Fetched new weather data at 2025-02-06 20:55:36.833446
+2025-02-06 20:55:36 INFO app_bar.py:103: Bar Created on Screen: PGCTRBL01 [Bar Height: 44px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 2560, Screen Height: 1440]
+2025-02-06 20:55:37 INFO event_listener.py:52: Created named pipe yasb-dc9fb117-e4e5-11ef-a356-00e04c742203
+2025-02-06 20:55:37 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-dc9fb117-e4e5-11ef-a356-00e04c742203
+2025-02-06 20:55:37 INFO watcher.py:39: Created file watcher for path C:\Users\ogoes\.config\yasb
+2025-02-06 20:55:37 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-06 20:55:37 DEBUG _windows.py:192: Thread started
+2025-02-06 20:55:37 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-dc9fb117-e4e5-11ef-a356-00e04c742203
+2025-02-06 20:57:24 INFO log.py:21: Yasb v1.5.8
+2025-02-06 20:57:24 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-06 20:57:24 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-06 20:57:24 INFO weather.py:359: Fetched new weather data at 2025-02-06 20:57:24.829337
+2025-02-06 20:57:24 INFO app_bar.py:103: Bar Created on Screen: PGCTRBL01 [Bar Height: 44px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 2560, Screen Height: 1440]
+2025-02-06 20:57:25 INFO event_listener.py:52: Created named pipe yasb-1cfd8e6d-e4e6-11ef-a102-00e04c742203
+2025-02-06 20:57:25 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-1cfd8e6d-e4e6-11ef-a102-00e04c742203
+2025-02-06 20:57:25 INFO watcher.py:39: Created file watcher for path C:\Users\ogoes\.config\yasb
+2025-02-06 20:57:25 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-06 20:57:25 DEBUG _windows.py:192: Thread started
+2025-02-06 20:57:25 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-1cfd8e6d-e4e6-11ef-a102-00e04c742203
+2025-02-06 20:57:35 INFO log.py:21: Yasb v1.5.8
+2025-02-06 20:57:36 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-06 20:57:36 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-06 20:57:36 INFO weather.py:359: Fetched new weather data at 2025-02-06 20:57:36.302030
+2025-02-06 20:57:36 INFO app_bar.py:103: Bar Created on Screen: PGCTRBL01 [Bar Height: 44px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 2560, Screen Height: 1440]
+2025-02-06 20:57:36 INFO event_listener.py:52: Created named pipe yasb-23dbf3fd-e4e6-11ef-8e38-00e04c742203
+2025-02-06 20:57:36 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-23dbf3fd-e4e6-11ef-8e38-00e04c742203
+2025-02-06 20:57:36 INFO watcher.py:39: Created file watcher for path C:\Users\ogoes\.config\yasb
+2025-02-06 20:57:36 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-06 20:57:36 DEBUG _windows.py:192: Thread started
+2025-02-06 20:57:36 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-23dbf3fd-e4e6-11ef-8e38-00e04c742203
+2025-02-06 20:59:18 INFO log.py:21: Yasb v1.5.8
+2025-02-06 20:59:18 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-06 20:59:18 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-06 20:59:18 INFO weather.py:359: Fetched new weather data at 2025-02-06 20:59:18.992815
+2025-02-06 20:59:19 INFO app_bar.py:103: Bar Created on Screen: PGCTRBL01 [Bar Height: 44px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 2560, Screen Height: 1440]
+2025-02-06 20:59:19 INFO event_listener.py:52: Created named pipe yasb-610bcdbd-e4e6-11ef-a5d4-00e04c742203
+2025-02-06 20:59:19 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-610bcdbd-e4e6-11ef-a5d4-00e04c742203
+2025-02-06 20:59:19 INFO watcher.py:39: Created file watcher for path C:\Users\ogoes\.config\yasb
+2025-02-06 20:59:19 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-06 20:59:19 DEBUG _windows.py:192: Thread started
+2025-02-06 20:59:19 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-610bcdbd-e4e6-11ef-a5d4-00e04c742203
+2025-02-06 20:59:26 INFO log.py:21: Yasb v1.5.8
+2025-02-06 20:59:26 DEBUG win32.py:58: Looking up time zone info from registry
+2025-02-06 20:59:27 DEBUG __init__.py:140: CoInitializeEx(None, 2)
+2025-02-06 20:59:27 INFO weather.py:359: Fetched new weather data at 2025-02-06 20:59:27.163250
+2025-02-06 20:59:27 INFO app_bar.py:103: Bar Created on Screen: PGCTRBL01 [Bar Height: 44px, DPI Scale: 1.0, Scale Screen: True, Screen Geometry: X: 0, Y: 0, Screen Width: 2560, Screen Height: 1440]
+2025-02-06 20:59:27 INFO event_listener.py:52: Created named pipe yasb-6623b35e-e4e6-11ef-ab69-00e04c742203
+2025-02-06 20:59:27 INFO event_listener.py:106: Waiting for Komorebi to subscribe to named pipe yasb-6623b35e-e4e6-11ef-ab69-00e04c742203
+2025-02-06 20:59:27 INFO watcher.py:39: Created file watcher for path C:\Users\ogoes\.config\yasb
+2025-02-06 20:59:27 DEBUG _windows.py:213: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-02-06 20:59:27 DEBUG _windows.py:192: Thread started
+2025-02-06 20:59:28 INFO event_listener.py:118: Komorebi connected to named pipe: yasb-6623b35e-e4e6-11ef-ab69-00e04c742203
+2025-02-06 21:09:27 INFO weather.py:359: Fetched new weather data at 2025-02-06 21:09:27.156043
