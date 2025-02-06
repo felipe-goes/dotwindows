@@ -14,13 +14,12 @@ alt + q                 : komorebic close
 alt + m                 : komorebic minimize
 
 # Focus windows
-# alt + h           : komorebic focus left
-alt + win + h       : komorebic focus left
-alt + win + j       : komorebic focus down
-alt + win + k       : komorebic focus up
-alt + win + l       : komorebic focus right
-alt + shift + oem_4 : komorebic cycle-focus previous # oem_4 is [
-alt + shift + oem_6 : komorebic cycle-focus next # oem_6 is ]
+alt + win + h           : komorebic focus left
+alt + win + j           : komorebic focus down
+alt + win + k           : komorebic focus up
+alt + win + l           : komorebic focus right
+alt + shift + oem_4     : komorebic cycle-focus previous # oem_4 is [
+alt + shift + oem_6     : komorebic cycle-focus next # oem_6 is ]
 
 # Move windows
 alt + shift + h         : komorebic move left
