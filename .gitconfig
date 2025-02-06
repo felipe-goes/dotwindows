@@ -1,0 +1,33 @@
+[user]
+	email = ogoesfelipe@gmail.com
+	name = Felipe Goes
+[init]
+	defaultBranch = main
+[merge]
+	conflictstyle = diff3
+[diff]
+	external = difft
+[alias]
+	a = add
+	d = diff
+	l = log --graph --decorate
+	r = restore
+	aa = add -A
+	ap = add --patch
+	br = branch
+	ci = commit
+	co = checkout
+	cp = cherry-pick
+	ds = diff --staged
+	lf = log --graph --decorate -p --name-status
+	od = push origin --delete
+	pr = pull rebase
+	rs = restore --staged
+	st = status -s
+	re = rebase -i
+	bra = branch -a
+	cdf = clean -df
+	fap = fetch -ap
+	conf = config --global --edit
+	undo = reset HEAD~1
+	amend = commit --amend
