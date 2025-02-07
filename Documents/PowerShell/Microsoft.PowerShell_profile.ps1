@@ -1,3 +1,4 @@
+# TODO: Move pra cá os scripts da pasta Links pra rodar eles pelo Flow Launcher
 # Make the script stop if any error occur
 $ErrorActionPreference = "Stop"
 
