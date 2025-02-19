@@ -1,14 +1,32 @@
 local wezterm = require("wezterm")
 
 -- generate random number to choose random background
-local background_index = math.random(7)
-local background_array = {
-  "C:/Users/ogoes/Pictures/Slides/ativo/nes.jpg",
-  "C:/Users/ogoes/Pictures/Slides/ativo/ps2.png",
-  "C:/Users/ogoes/Pictures/Slides/ativo/psp.jpg",
-  "C:/Users/ogoes/Pictures/Slides/ativo/psx.png",
-  "C:/Users/ogoes/Pictures/Slides/ativo/snesmsu1.jpg",
-  "C:/Users/ogoes/Pictures/Slides/ativo/switch.jpg",
+local background_array_size = 6
+local background_index = math.random(background_array_size)
+
+local low = 0.03
+local high = 0.07
+local half_width = "50%"
+local full_width = "100%"
+
+local background_consoles = {
+  "C:/Users/ogoes/Pictures/Slides/consoles/nes.jpg",
+  "C:/Users/ogoes/Pictures/Slides/consoles/ps2.png",
+  "C:/Users/ogoes/Pictures/Slides/consoles/psp.jpg",
+  "C:/Users/ogoes/Pictures/Slides/consoles/psx.png",
+  "C:/Users/ogoes/Pictures/Slides/consoles/snesmsu1.jpg",
+  "C:/Users/ogoes/Pictures/Slides/consoles/switch.jpg",
+}
+
+local brightness_16bits = { low, low, high, high, high, high }
+local width_16bits = { half_width, half_width, half_width, half_width, full_width, full_width }
+local background_16bits = {
+  "C:/Users/ogoes/Pictures/Slides/16bits/master-sword.gif",
+  "C:/Users/ogoes/Pictures/Slides/16bits/zeldatotk-lake.gif",
+  "C:/Users/ogoes/Pictures/Slides/16bits/pokemon-bridge.gif",
+  "C:/Users/ogoes/Pictures/Slides/16bits/pokemon-pokedex.gif",
+  "C:/Users/ogoes/Pictures/Slides/16bits/zelda-skyward-by-itzah.gif",
+  "C:/Users/ogoes/Pictures/Slides/16bits/zelda-fanart-itzah.gif",
 }
 
 wezterm.on("gui-startup", function(cmd)
@@ -235,19 +253,7 @@ local config = {
   },
 
   bold_brightens_ansi_colors = true,
-  color_scheme = 'tokyonight',
-  window_background_image = background_array[background_index],
-  window_background_image_hsb = {
-    -- Darken the background image by reducing it to 1/3rd
-    brightness = 0.01,
-
-    -- You can adjust the hue by scaling its value.
-    -- a multiplier of 1.0 leaves the value unchanged.
-    hue = 1.0,
-
-    -- You can adjust the saturation also.
-    saturation = 1.0,
-  },
+  color_scheme = "tokyonight",
 
   -- Padding
   window_padding = {
@@ -266,7 +272,6 @@ local config = {
   -- General
   automatically_reload_config = true,
   inactive_pane_hsb = { saturation = 1.0, brightness = 1.0 },
-  window_background_opacity = 1.0,
   window_close_confirmation = "NeverPrompt",
   window_frame = { active_titlebar_bg = "#090909", font = font_with_fallback(font_name, { bold = true }) },
   launch_menu = is_windows and { { args = { "cmd.exe" }, domain = { DomainName = "local" } } } or nil,
@@ -274,6 +279,19 @@ local config = {
     TERMINFO_DIRS = "/home/" .. (os.getenv("USERNAME") or os.getenv("USER")) .. "/.nix-profile/share/terminfo",
     WSLENV = "TERMINFO_DIRS",
     prompt = is_windows and "$E]7;file://localhost/$P$E\\$E[32m$T$E[0m $E[35m$P$E[36m$_$G$E[0m " or nil,
+  },
+}
+
+config.background = {
+  {
+    source = {
+      File = background_consoles[background_index],
+    },
+    hsb = {
+      brightness = brightness_16bits[background_index],
+    },
+    height = "Contain",
+    width = width_16bits[background_index],
   },
 }
 
