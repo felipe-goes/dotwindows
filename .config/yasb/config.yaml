@@ -54,8 +54,6 @@ bars:
           'disk',
           'cpu',
           'memory',
-          'notifications',
-          'update_check',
           'power_menu',
         ]
         # ['media', 'taskbar', 'weather', 'microphone', 'volume', 'power_menu']

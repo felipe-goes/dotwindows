@@ -18,8 +18,8 @@ alt + win + h           : komorebic focus left
 alt + win + j           : komorebic focus down
 alt + win + k           : komorebic focus up
 alt + win + l           : komorebic focus right
-alt + shift + oem_4     : komorebic cycle-focus previous # oem_4 is [
-alt + shift + oem_6     : komorebic cycle-focus next # oem_6 is ]
+alt + shift + oem_4     : komorebic cycle-focus previous # oem_4 is ´ | oem_4 is [
+alt + shift + oem_6     : komorebic cycle-focus next # oem_6 is [ | oem_6 is ]
 
 # Move windows
 alt + shift + h         : komorebic move left
@@ -33,9 +33,9 @@ alt + left              : komorebic stack left
 alt + down              : komorebic stack down
 alt + up                : komorebic stack up
 alt + right             : komorebic stack right
-alt + oem_1             : komorebic unstack # oem_1 is ;
-alt + oem_4             : komorebic cycle-stack previous # oem_4 is [
-alt + oem_6             : komorebic cycle-stack next # oem_6 is ]
+alt + oem_1             : komorebic unstack # oem_1 is ç | oem_1 is ;
+alt + oem_4             : komorebic cycle-stack previous # oem_4 is ´ | oem_4 is [
+alt + oem_6             : komorebic cycle-stack next # oem_6 is [ | oem_6 is ]
 
 # Resize
 alt + oem_plus          : komorebic resize-axis horizontal increase

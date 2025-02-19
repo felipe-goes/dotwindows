@@ -5,13 +5,13 @@
   "cross_monitor_move_behaviour": "Insert",
   "default_workspace_padding": 1,
   "default_container_padding": 1,
-  "border": true,
-  "border_width": 8,
+  "border": false,
+  "border_width": 4,
   "border_offset": -1,
   "transparency": false,
   "animation": {
     "enabled": true,
-    "duration": 100,
+    "duration": 150,
     "style": "EaseInOutSine"
   },
   "theme": {
@@ -36,19 +36,19 @@
         },
         {
           "name": "II",
-          "layout": "VerticalStack"
+          "layout": "BSP"
         },
         {
           "name": "III",
-          "layout": "HorizontalStack"
+          "layout": "BSP"
         },
         {
           "name": "IV",
-          "layout": "UltrawideVerticalStack"
+          "layout": "VerticalStack"
         },
         {
           "name": "V",
-          "layout": "Rows"
+          "layout": "VerticalStack"
         },
         {
           "name": "VI",
@@ -56,7 +56,7 @@
         },
         {
           "name": "VII",
-          "layout": "RightMainVerticalStack"
+          "layout": "UltrawideVerticalStack"
         }
       ]
     }
